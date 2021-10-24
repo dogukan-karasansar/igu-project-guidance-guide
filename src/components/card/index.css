@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.card > h3 {
+    color: #F0A500;
+    margin-top: 40px;
+}

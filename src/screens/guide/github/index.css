@@ -1,0 +1,21 @@
+.page {
+    display: flex;
+    height: 120vh;
+    align-items: center;
+    background-color: #334756;
+    flex-direction: column;
+}
+
+h2 {
+    color: #F0A500;
+    margin-top: 40px;
+}
+
+p {
+    color: #FEF9EF;
+    font-size: 15px;
+}
+
+code {
+    color: brown;
+}
