@@ -14,11 +14,11 @@ export default function App() {
               <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to="/users">Users</Link>
+              <Link to="/users">test</Link>
             </li>
           </ul>
         </nav>
-        
+
         <Switch>
           <Route path="/about">
             <About />
